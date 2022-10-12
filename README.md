@@ -1,4 +1,4 @@
-#👋 Hi, I’m 'Angie'
+# 👋 Hi, I’m 'Angie'
 
 - 👀 I’m interested in Machine Learning, Robotics, Aerospace Engineering, and App Development.
 - 🌱 I’m currently learning web development since it makes money.
