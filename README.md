@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://samson-portfolio-seven.vercel.app](https://samson-portfolio-seven.vercel.app)
+- 👨‍💻 My Portfolio at [https://samson-portfolio-seven.vercel.app](https://samson-portfolio-seven.vercel.app)
 
 - 📫 How to reach me **m.angelinesamson@gmail.com**
 
